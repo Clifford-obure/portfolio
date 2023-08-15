@@ -179,7 +179,7 @@ const projects = [
       },
     ],
     image: leaderboard,
-    repo: '',
+    repo: 'https://github.com/Clifford-obure/chafua',
     demo: 'plastore chafua application',
   },
   {
@@ -206,8 +206,8 @@ const projects = [
   },
   {
     id: 'project-4',
-    name: 'Movie Metro',
-    description: `A single-page application that allows users to search for any movie or show's ratings and its details.`,
+    name: 'tinda',
+    description: `social app but it's still under construction`,
     tags: [
       {
         name: 'nextjs',
@@ -223,8 +223,8 @@ const projects = [
       },
     ],
     image: movie,
-    repo: '',
-    demo: '',
+    repo: 'https://github.com/Clifford-obure/tinda',
+    demo: 'https://tinda-46bd5.web.app/',
   },
   {
     id: 'project-5',
