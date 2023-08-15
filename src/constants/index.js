@@ -202,7 +202,7 @@ const projects = [
     ],
     image: math,
     repo: '',
-    demo: 'ivula.co.ke',
+    demo: 'https://ivula.co.ke',
   },
   {
     id: 'project-4',
