@@ -179,7 +179,7 @@ const projects = [
       },
     ],
     image: leaderboard,
-    repo: 'https://github.com/Clifford-obure/chafua',
+    repo: 'https://github.com/Clifford-obure/chafua-app',
     demo: 'plastore chafua application',
   },
   {
